@@ -3,7 +3,7 @@
 //  AppleSlideView
 //
 //  Created by Omar Subhi on 6/23/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2012 Infusion Apps. All rights reserved.
 //
 
 #import "IASequenceAnimations.h"
