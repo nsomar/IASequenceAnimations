@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  SequenceAnimationsDemo
 //
-//  Created by Omar Subhi on 6/27/12.
+//  Created by Omar Abdelhafith on 6/27/12.
 //  Copyright (c) 2012 Infusion Apps. All rights reserved.
 //
 
