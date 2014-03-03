@@ -1,6 +1,8 @@
 IASequenceAnimations
 ====================
 
+[![wercker status](https://app.wercker.com/status/cdb8a77bd1c27ccdca8266a5e1f10c3c/m/ "wercker status")](https://app.wercker.com/project/bykey/cdb8a77bd1c27ccdca8266a5e1f10c3c)
+
 Perform a sequence of animations one after the other using blocks
 
 IASequenceAnimations allows you to easily create a sequence of animations using blocks
